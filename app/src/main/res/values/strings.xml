@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News feed app</string>
+    <string name="search">Search</string>
+    <string name="no_network">No network</string>
+    <string name="no_news">No news found</string>
+
+    <string name="section">section</string>
+    <string name="section_key">news_section</string>
+    <string name="section_default_value">@string/section_news_value</string>
+
+    <string name="section_news_label">News</string>
+    <string name="section_opinion_label">Opinion</string>
+    <string name="section_sport_label">Sport</string>
+    <string name="section_culture_label">Culture</string>
+    <string name="section_lifestyle_label">Life and Style</string>
+
+    <string name="section_news_value">news</string>
+    <string name="section_opinion_value">commentisfree</string>
+    <string name="section_sport_value">sport</string>
+    <string name="section_culture_value">culture</string>
+    <string name="section_lifestyle_value">lifeandstyle</string>
+</resources>

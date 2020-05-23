@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="section_labels">
+        <item>@string/section_news_label</item>
+        <item>@string/section_opinion_label</item>
+        <item>@string/section_sport_label</item>
+        <item>@string/section_culture_label</item>
+        <item>@string/section_lifestyle_label</item>
+    </string-array>
+
+    <string-array name="section_values">
+        <item>@string/section_news_value</item>
+        <item>@string/section_opinion_value</item>
+        <item>@string/section_sport_value</item>
+        <item>@string/section_culture_value</item>
+        <item>@string/section_lifestyle_value</item>
+    </string-array>
+</resources>
